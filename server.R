@@ -29,7 +29,7 @@ server <- function(input, output) {
   
 }
 
-***************** GET PARA EXPORTAR DATOS EN LA NUBE SE EJECUTA POR CONSOLA EN R STUDIO*************************
+############## GET PARA EXPORTAR DATOS EN LA NUBE SE EJECUTA POR CONSOLA EN R STUDIO ########################
 
 package:datasets
 
