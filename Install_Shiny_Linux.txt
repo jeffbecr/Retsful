@@ -1,0 +1,3 @@
+mkdir ~/ShinyApps
+sudo /opt/shiny-server/bin/deploy-example user-dirs
+cp -R /opt/shiny-server/samples/sample-apps/hello ~/ShinyApps/
